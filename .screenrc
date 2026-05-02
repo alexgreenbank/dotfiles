@@ -1,0 +1,2 @@
+shell -${SHELL}
+caption always '%{gk}[ %{G}%H %{g}][ %{w}%?%-w%?%{=b kR}%n %{W}%t%{= w}%?%+w%?%?%= %{g}][%{B}%l%{=b g}][ %{B}%D %d-%m %c %{g}]'
