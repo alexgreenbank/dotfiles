@@ -1,12 +1,14 @@
 # dotfiles
 A dump of public dotfiles and useful scripts
 
-| file | description  |
-|---|---|
-| .screenrc | Screen config file  |
-| beep | Make a terminal beep every second |
+| file | link | description  |
+|---|---|---|
+| [.screenrc](.screenrc) | [link](#screenrc) | Screen config file  |
+| [beep](beep) | [link](#beep) |Make a terminal beep every second |
 
 ## .screenrc
+
+![example screen caption bar](static/screen_caption_example.png)
 
 Don't know where I found this but it creates a nice caption line at the bottom of the terminal window with hostname, window names, loadavg and date/time.
 ```
